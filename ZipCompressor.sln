@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCompressor.Entities", "ZipCompressor.Entities\ZipCompressor.Entities.csproj", "{66537D68-A158-4CFA-A924-6311B580EF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCompressor.UI", "ZipCompressor.UI\ZipCompressor.UI.csproj", "{8839EA65-D3AC-408B-9626-BF551AB694E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66537D68-A158-4CFA-A924-6311B580EF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66537D68-A158-4CFA-A924-6311B580EF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66537D68-A158-4CFA-A924-6311B580EF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66537D68-A158-4CFA-A924-6311B580EF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8839EA65-D3AC-408B-9626-BF551AB694E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8839EA65-D3AC-408B-9626-BF551AB694E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8839EA65-D3AC-408B-9626-BF551AB694E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8839EA65-D3AC-408B-9626-BF551AB694E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680B2EB5-C344-4687-B06E-849937A5EFFD}
+	EndGlobalSection
+EndGlobal
